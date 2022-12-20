@@ -2,7 +2,7 @@
 
 .navbar {
     padding: 2rem;
-    background-color: #f5e6ed;
+    background-color: #d1c7cc;
   }
   
   .navbar-collapse {
@@ -42,7 +42,7 @@
   
   .seccion-descripcion {
     font-size: 1.2rem;
-    color: #584e4e;
+    color: #362e2e;
   }
   
   .seccion-texto {
@@ -120,7 +120,7 @@
   
   .experiencia i {
     font-size: 2.5rem;
-    color: #7ade30;
+    color: #77bf41;
     background-color: #0a0a23;
     padding: 8px 19px;
     border-radius: 50%;
@@ -281,7 +281,7 @@
   
   .contacto .rectangulo {
     margin-top: -5rem;
-    background-color: #b87393;
+    background-color: #76475d;
     border-radius: 10px;
     box-shadow: 0px 1px 4px 1px white;
   }
@@ -363,7 +363,7 @@
   
   .iconos-redes-sociales a:hover {
     background-color: white;
-    border: 2px solid #b87393;
+    border: 2px solid #824863;
   }
   
   .iconos-redes-sociales a:hover i {
